@@ -68,4 +68,5 @@ Learn about JDBC.
 
 ### Data Project - JDBC
 
-Solve the problems using JDBC with PostgreSQL.
+Solve the problems using JDBC with MYSQL 
+In the IPL data project - you should just change the getMatches() and getDeliveries() and push it to another branch
