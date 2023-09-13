@@ -69,3 +69,5 @@ Learn about JDBC.
 ### Data Project - JDBC
 
 Solve the problems using JDBC with PostgreSQL.
+
+Solve the problems using JDBC with MySQL
